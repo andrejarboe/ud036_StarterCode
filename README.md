@@ -10,6 +10,6 @@ Python 2.7.13 or higher
 
 Movie trailer website then opens in your default browser 
 
-##License
-Movie Trailer is released under the [MIT License](https://choosealicense.com/licenses/mit/)
+## License
+Movie Trailer website is released under the [MIT License](https://choosealicense.com/licenses/mit/)
 
